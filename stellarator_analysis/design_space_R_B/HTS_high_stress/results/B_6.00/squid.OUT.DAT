@@ -1,0 +1,29 @@
+ 
+**************************************************************************************************************
+************************************************** PROCESS ***************************************************
+************************************** Power Reactor Optimisation Code ***************************************
+**************************************************************************************************************
+ 
+Version : 3.1.0
+Git Tag : v3.2.1-81-gef0c5066
+Git Branch : merge
+Date : 13/01/2026 UTC
+Time : 10:38
+User : jedwal
+Computer : fc-deb1-103
+Directory : /home/IPP-HGW/jedwal/PROCESS
+Input : /home/IPP-HGW/jedwal/PROCESS/stellarator_analysis/design_space_R_B/HTS_high_stress/results/B_6.00/squid.IN.DAT
+Run title : squid
+Run type : Reactor concept design: Stellarator model, (c) UK Atomic Energy Authority
+ 
+**************************************************************************************************************
+ 
+Equality constraints : 2
+Inequality constraints : 12
+Total constraints : 14
+Iteration variables : 7
+Max iterations : 70
+Figure of merit : +1  -- minimise major radius          
+Convergence parameter : 1e-06
+ 
+**************************************************************************************************************

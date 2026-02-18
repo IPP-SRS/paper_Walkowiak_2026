@@ -1,0 +1,10 @@
+process.plasma_profiles - WARNING - Parabolic plasma profiles is used for an L-Mode plasma, but the physics variables do not describe an L-Mode plasma. 'rhopedt', 'rhopedn', 'teped', 'tesep', 'neped', 'nesep', and 'tbeta' have all been reset to L-Mode appropriate values
+process.solver - WARNING - Could not converge on a feasible solution after 100 iterations.
+process.solver - WARNING - Could not converge on a feasible solution after 100 iterations.
+process.solver - WARNING - Could not converge on a feasible solution after 100 iterations.
+process.io.mfile - INFO - Creating MFile class for file '/home/IPP-HGW/jedwal/PROCESS/stellarator_analysis/cost_analysis/HTS_larger_coil/squid_COE/P_1500.0/squid.IDEM_MFILE.DAT'
+process.io.mfile - INFO - Opening file '/home/IPP-HGW/jedwal/PROCESS/stellarator_analysis/cost_analysis/HTS_larger_coil/squid_COE/P_1500.0/squid.IDEM_MFILE.DAT'
+process.io.mfile - INFO - Parsing file '/home/IPP-HGW/jedwal/PROCESS/stellarator_analysis/cost_analysis/HTS_larger_coil/squid_COE/P_1500.0/squid.IDEM_MFILE.DAT'
+process.io.mfile - INFO - Creating MFile class for file '/home/IPP-HGW/jedwal/PROCESS/stellarator_analysis/cost_analysis/HTS_larger_coil/squid_COE/P_1500.0/squid.IDEM_MFILE.DAT'
+process.io.mfile - INFO - Opening file '/home/IPP-HGW/jedwal/PROCESS/stellarator_analysis/cost_analysis/HTS_larger_coil/squid_COE/P_1500.0/squid.IDEM_MFILE.DAT'
+process.io.mfile - INFO - Parsing file '/home/IPP-HGW/jedwal/PROCESS/stellarator_analysis/cost_analysis/HTS_larger_coil/squid_COE/P_1500.0/squid.IDEM_MFILE.DAT'
