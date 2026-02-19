@@ -6,3 +6,6 @@ stellarator_analysis/Helias5
 stellarator_analysis/plots
 stellarator_analysis/coe_base_cases
 stellarator_analysis/coe_with_coil_aspect
+stellarator_analysis/desing_space_R_B/HTS_high_stress
+stellarator_analysis/coil_aspect_scan/LTS_larger_coil
+stellarator_analysis/coil_aspect_scan/LTS_new_configuration
